@@ -1,0 +1,1 @@
+ngrok http 10.20.20.20 --authtoken=$NGROK_AUTH_TOKEN --config=/root/.config/ngrok/ngrok.yml --log=stdout
